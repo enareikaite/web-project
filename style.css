@@ -1,0 +1,33 @@
+p {color: red;
+  font-size: 1.3rem;
+  background-color: blue;
+}
+
+h1,h2 {
+  color: blue;
+  text-align: center;
+ }
+
+ .tp{
+   width: 100%;
+ }
+
+.lt{
+  width: 49%;
+  float: left;
+  margin: 0 30px;
+  padding: 10px 5px;
+  display:
+}
+
+.rt{
+  width: 49%;
+  float: left;
+  margin: 0 30px;
+  padding: 10px 5px;
+}
+
+ .bt{
+   width: 100%;
+   text-align: center;
+ }
